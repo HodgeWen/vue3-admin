@@ -1,0 +1,1 @@
+export { default as VNotFound } from './not-found.vue'
